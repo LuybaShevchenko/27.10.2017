@@ -1,0 +1,12 @@
+<?php
+$myyear=1997;
+$currentyear=2017
+$m=$currentyear-$myyear;
+?>
+<?php
+$myyear=1994;
+$mymounth=5;
+$myday=25;
+$correntyear=2017;
+$correntyear=2017;
+$correntyear=2017;
